@@ -1,5 +1,5 @@
 # 🌼 Daisy Love Checker Web Component
-
+![Daisy Love Checker Demo](daisy-picker.png)
 A playful Web Component that mimics the traditional petal-picking game — "Loves me, loves me not" — using a dynamic digital daisy. Click the button to pluck petals one by one until you get your final answer.
 
 ---
