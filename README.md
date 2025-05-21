@@ -1,8 +1,3 @@
-Sure! Here's a complete `README.md` file you can use for your **`daisy-love-checker`** GitHub repository:
-
----
-
-````markdown
 # 🌼 Daisy Love Checker Web Component
 
 A playful Web Component that mimics the traditional petal-picking game — "Loves me, loves me not" — using a dynamic digital daisy. Click the button to pluck petals one by one until you get your final answer.
