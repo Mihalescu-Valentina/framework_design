@@ -9,7 +9,6 @@ A playful Web Component that mimics the traditional petal-picking game — "Love
 - 🌸 Random number of petals (between **4 and 15**, even or odd).
 - 💬 Alternates between “Loves me” and “Does not love me” on each click.
 - 🎞️ Smooth falling animation for petals.
-- 🌀 Centered flower layout with rotating petal arrangement.
 - 🔁 “Restart” button appears when the game ends.
 - ♻️ Fully encapsulated using Shadow DOM.
 
